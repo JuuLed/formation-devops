@@ -7,7 +7,7 @@ on:
 jobs:
 
   deployment:
-    name: Test Foramtion Devops
+    name: Test
     runs-on: ubuntu-latest
     
     steps:
